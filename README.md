@@ -1,0 +1,1 @@
+This project focuses on developing a House Price Prediction model leveraging machine learning techniques that predicts house prices based on key features such as location, size, number of rooms, amenities, and other relevant factor
